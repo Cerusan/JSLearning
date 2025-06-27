@@ -23,5 +23,5 @@ const obj = {
 console.log(obj.name);        //better practice
 //console.log(obj["name"]);
 
-let arr = ['plum.png', 'orange.jpg', 'apple.bmp', 6];       //array
+let arr = ['plum.png', 'orange.jpg', 'apple.bmp', 6];       //array 
 console.log(arr[1]);
